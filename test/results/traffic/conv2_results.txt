@@ -1,0 +1,24 @@
+-------------------------------------------------
+[LZW] Compression Results: conv2.bin
+-------------------------------------------------
+Iterations        : 205056
+DictCount         : 4096
+Bits Used         : 12
+Uncompressed Size : 205057
+Compressed Size   : 260861
+Percent Compressed: -27.2%
+Time Elapsed      : 247.0 ms
+-------------------------------------------------
+[Huffman] Compression Results: conv2.bin
+-------------------------------------------------
+Size of uncompressed   : 205056
+Size of codebook       : 256
+Size of compressed     : 195606
+Compressio Ratio       : 4.5%
+-------------------------------------------------
+[RLE] Compression Results: conv2.bin
+-------------------------------------------------
+Uncompressed Size : 205055
+Compressed Size   : 206246
+Percent Compressed: -0.6%
+Time Elapsed      : 12.0 ms

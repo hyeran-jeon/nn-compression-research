@@ -1,0 +1,24 @@
+-------------------------------------------------
+[LZW] Compression Results: cifar10\5-0-weights.bin
+-------------------------------------------------
+Iterations        : 147456
+DictCount         : 4096
+Bits Used         : 12
+Uncompressed Size : 147457
+Compressed Size   : 117398
+Percent Compressed: 20.4%
+Time Elapsed      : 166.0 ms
+-------------------------------------------------
+[Huffman] Compression Results: cifar10\5-0-weights.bin
+-------------------------------------------------
+Size of uncompressed   : 147456
+Size of codebook       : 256
+Size of compressed     : 91820
+Compressio Ratio       : 37.6%
+-------------------------------------------------
+[RLE] Compression Results: cifar10\5-0-weights.bin
+-------------------------------------------------
+Uncompressed Size : 147456
+Compressed Size   : 128874
+Percent Compressed: 12.6%
+Time Elapsed      : 8.0 ms

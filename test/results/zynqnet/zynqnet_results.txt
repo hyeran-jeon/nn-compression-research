@@ -1,0 +1,24 @@
+-------------------------------------------------
+[LZW] Compression Results: z.bin
+-------------------------------------------------
+Iterations        : 10115200
+DictCount         : 4096
+Bits Used         : 12
+Uncompressed Size : 10115201
+Compressed Size   : 13266655
+Percent Compressed: -31.2%
+Time Elapsed      : 12755.0 ms
+-------------------------------------------------
+[Huffman] Compression Results: z.bin
+-------------------------------------------------
+Size of uncompressed   : 10115200
+Size of codebook       : 256
+Size of compressed     : 9394383
+Compressio Ratio       : 7.1%
+-------------------------------------------------
+[RLE] Compression Results: z.bin
+-------------------------------------------------
+Uncompressed Size : 10115199
+Compressed Size   : 10183744
+Percent Compressed: -0.7%
+Time Elapsed      : 420.0 ms

@@ -1,0 +1,24 @@
+-------------------------------------------------
+[LZW] Compression Results: road-signs\5-0-weights.bin
+-------------------------------------------------
+Iterations        : 147456
+DictCount         : 4096
+Bits Used         : 12
+Uncompressed Size : 147457
+Compressed Size   : 116884
+Percent Compressed: 20.7%
+Time Elapsed      : 74.0 ms
+-------------------------------------------------
+[Huffman] Compression Results: road-signs\5-0-weights.bin
+-------------------------------------------------
+Size of uncompressed   : 147456
+Size of codebook       : 256
+Size of compressed     : 91873
+Compressio Ratio       : 37.5%
+-------------------------------------------------
+[RLE] Compression Results: road-signs\5-0-weights.bin
+-------------------------------------------------
+Uncompressed Size : 147456
+Compressed Size   : 128906
+Percent Compressed: 12.6%
+Time Elapsed      : 8.0 ms

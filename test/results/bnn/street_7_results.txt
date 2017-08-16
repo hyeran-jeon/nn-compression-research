@@ -1,0 +1,24 @@
+-------------------------------------------------
+[LZW] Compression Results: streetview\7-0-weights.bin
+-------------------------------------------------
+Iterations        : 262144
+DictCount         : 4096
+Bits Used         : 12
+Uncompressed Size : 262145
+Compressed Size   : 62062
+Percent Compressed: 76.3%
+Time Elapsed      : 208.0 ms
+-------------------------------------------------
+[Huffman] Compression Results: streetview\7-0-weights.bin
+-------------------------------------------------
+Size of uncompressed   : 262144
+Size of codebook       : 256
+Size of compressed     : 65355
+Compressio Ratio       : 75.0%
+-------------------------------------------------
+[RLE] Compression Results: streetview\7-0-weights.bin
+-------------------------------------------------
+Uncompressed Size : 262144
+Compressed Size   : 130911
+Percent Compressed: 50.1%
+Time Elapsed      : 9.0 ms
