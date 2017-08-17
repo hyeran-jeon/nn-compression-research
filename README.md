@@ -1,13 +1,13 @@
 # nn-compression-research
 
 # Team
-We are a team of Computer Engineering students at San Jose State University, under the guidance of Professor Hyeran Jeon and Professor Xuan Guan, researching optimal compression methods for neural network models.
+We are a team of Computer Engineering students at San Jose State University, under the guidance of `Professor Hyeran Jeon` and `Professor Xuan Guan`, researching optimal compression methods for neural network models.
 
 Current Team Members: `Jonathan Pan`, `Spoorthi Mysore Shivakumar`
 
 Previous Contributors: `Mina Yi`, `Jaswanth Bhimanapalli`
 
-
+# Directory Structure
     .
     ├── Huffman       # Files for huffman encoding overlay
     │   ├── bitstream       # .bit and .tcl files for overlay
